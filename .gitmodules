@@ -1,0 +1,3 @@
+[submodule "thesecondRepository"]
+	path = thesecondRepository
+	url = https://github.com/DucHandsome/thesecondRepository.git
